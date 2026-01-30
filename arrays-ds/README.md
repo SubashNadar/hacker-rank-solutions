@@ -4,10 +4,11 @@
 [View on HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)
 
 ## Language
-python
+java
 
 ## Solution
-```python
+```java
+        for (int num : reversed) {
             System.out.print(num + " ");
         }
     }
